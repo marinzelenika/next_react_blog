@@ -1,4 +1,4 @@
-const Posts = ({articles}) => {
+const Posts = ({ articles }) => {
     return ( 
         <div>
         <h3>Posts</h3>
